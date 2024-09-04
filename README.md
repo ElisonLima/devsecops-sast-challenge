@@ -8,7 +8,10 @@ You will find a hands-on project sample that reproduces the routine of implantin
 ## Application Composition
 
 - Flask App
+    - Python
 - Github Actions CI/CD Pipeline
 - SAST Tool
     - Bandit
     - Semgrep
+- Container 
+    - Docker
